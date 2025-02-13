@@ -230,6 +230,6 @@ if WARNINGS or ERRORS:
 # ============================================
 st.markdown("""
 <div id="custom-footer">
-    <p id="custom-footer-text">&copy; 2025 Medipim. Tous droits réservés.</p>
+    <p id="custom-footer-text">&copy; Edouard Georg - 2025. Tous droits réservés.</p>
 </div>
 """, unsafe_allow_html=True)
